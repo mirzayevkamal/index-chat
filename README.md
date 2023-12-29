@@ -15,13 +15,13 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/ai-chat-app.git
+    git clone https://github.com/mirzayevkamal/index-chat.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ai-chat-app
+    cd index-chat
     ```
 
 3. Install the project dependencies:
