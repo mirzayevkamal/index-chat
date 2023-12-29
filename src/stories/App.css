@@ -325,11 +325,3 @@ body{
   line-height: normal;
   text-transform: uppercase;
 }
-
-.center-things{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100dvw;
-  height: 100dvh;
-}

@@ -1,0 +1,23 @@
+.sample-bubble {
+  max-width: 254px;
+  min-height: 83px;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+  padding: 16px;
+  display: grid;
+  grid-template-columns: 10% 90%;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.sample-bubble span {
+  color: #1e293b;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: start;
+}

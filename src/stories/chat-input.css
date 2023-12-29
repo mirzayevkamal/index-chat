@@ -1,0 +1,26 @@
+.input-style {
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+  background: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 10px 16px 10px 10px;
+  width: 100%;
+}
+
+.input-style:focus-visible {
+  border: 1px solid #94a3b8;
+  outline: #94a3b8;
+}
+
+.send-button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  position: absolute;
+  right: 16px;
+  top: 10px;
+}
